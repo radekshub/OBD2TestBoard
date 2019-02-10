@@ -1,0 +1,4 @@
+Git:
+https://github.com/radekshub/OBD2TestBoard.git
+PCB Way:
+https://www.pcbway.com/project/shareproject/OBD2_Test_Board_Rev__1_1.html
